@@ -14,6 +14,8 @@ Took height out of article content so the text fits better, text will also not o
 
 Created new IDs for the navigation bar, I created three different IDs for the three sections of content. If the page is minimized the ID links will still take you exactly to the content you are clicking on (before all links in the nav bar directed you to the same spot on the page).
 
+# Horiseon-Page-ScreenShots
 
+! [Horiseon-Site-SNIP1](C:\Users\demps\gt-pt\homework\Horiseon-Code-Refactor\assets\images\SNIP1.png)
 
-
+! [Horiseon-Site-SNIP2](C:\Users\demps\gt-pt\homework\Horiseon-Code-Refactor\assets\images\SNIP2.png)
